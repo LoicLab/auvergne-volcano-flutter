@@ -19,7 +19,7 @@ class DrawerView extends StatelessWidget{
             if (index == 0) {
               return const DrawerHeader(
                   child: Center(
-                    child: Icon(Icons.volcano_outlined, color: Colors.green, size: 50,),
+                    child: Icon(Icons.volcano_outlined, color: Colors.green, size: 50),
                   )
               );
             } else {
