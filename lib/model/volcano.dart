@@ -7,12 +7,14 @@ class Volcano {
   ///located at
   final String located;
   ///Images with path name of images of volcano
-  final List<String> imagesPath;
+  final List<String> imagesName;
 
   Volcano({
     required this.name,
     required this.altitude,
     required this.located,
-    required this.imagesPath
+    required this.imagesName
   });
+
+  String getImagePath()=> 'images/';
 }
