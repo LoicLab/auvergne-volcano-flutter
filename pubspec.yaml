@@ -71,6 +71,7 @@ flutter:
    - images/puy-de-sancy-3.jpg
    - images/puy-de-pariou.jpg
    - images/puy-de-pariou-2.jpg
+   - images/home.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
